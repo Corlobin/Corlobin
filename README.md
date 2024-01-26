@@ -2,7 +2,7 @@
 
 [![github badge](https://img.shields.io/github/followers/Corlobin?label=Follow&style=social)](https://github.com/Corlobin)
 
-<p>With over nine years of experience as a software engineer, I am passionate about solving complex problems, designing microservices, and creating algorithms. I currently work as a staff software engineer at PicPay, a leading payment platform in Brazil with over 90 million users, where I build and maintain highly available and scalable distributed serverless applications using Java, AWS, Kafka, and other technologies.
+<p>With over 12 of experience as a software engineer, I am passionate about solving complex problems, designing microservices, and creating algorithms. I currently work as a staff software engineer at PicPay, a leading payment platform in Brazil with over 90 million users, where I build and maintain highly available and scalable distributed serverless applications using Java, AWS, Kafka, and other technologies.
 
 As a staff software engineer, I also collaborate with product managers, tech managers, and CTOs to deliver innovative payment solutions, such as credit/debit card, bill, HSM, ISO 8583, cashout, and cash machine systems. I have mentored more than 30 developers and launched multiple products that impact millions of customers. I am always eager to learn new technologies and skills, and I hold several certifications, such as Oracle Certified Associate Java Developer, Oracle Certified Professional Java Developer, and Professional Scrum Master. I am also pursuing my PhD in Electrical Engineering, with a focus on intelligent systems, and have published several papers on machine learning and blockchain.
 
